@@ -1,3 +1,3 @@
 # TrianguloSierpinski
-#Version JDK 20 
-# IDE usado INTELLIJ
+# Version JDK 20 
+# IDE usado Intellij
